@@ -156,7 +156,7 @@ mysql> select * from tuser where name like '张%' and age=10 and ismale=1;
 
 <img src="https://github.com/CoderXiZhe/jksj/blob/main/images/image-20220410124015813.png?raw=true" alt="image-20220410124015813.png" style="zoom: 67%;" /><img src="https://github.com/CoderXiZhe/jksj/blob/main/images/image-20220410124029046.png?raw=true" alt="image-20220410124029046.png" style="zoom:67%;" />
 
- 	图3 无索引下推执行流程																		图4 索引下执行流程
+ 	图3 无索引下推执行流程				图4 索引下执行流程
 
 
 
